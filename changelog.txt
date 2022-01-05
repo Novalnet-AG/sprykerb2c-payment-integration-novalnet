@@ -1,5 +1,10 @@
 *** Changelog ***
 
+= 1.2.0 - 2022.01.05 =
+* New Implemented Direct Debit SEPA with payment guarantee, Invoice with payment guarantee
+* Fix - Compatible for sprykerb2c version 202108.0
+* Enhanced - Callback for transactions has been optimized as per the new testcase    
+
 = 1.1.0 - 2021.05.08 =
 * Fix      - Optimized readme instructions in Installation guide
 * Enhanced - Adjusted payment methods state machines
